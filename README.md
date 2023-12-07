@@ -4,6 +4,7 @@ Identify bird calls in soundscapes
 ## Datasets
   - Dataset 1 - [BirdCLEF](https://www.kaggle.com/competitions/birdclef-2023/data)
   - Dataset 2 - [BirdCLEF Mfccs](https://www.kaggle.com/datasets/akshatpathak/bird-clef-mfccs)
+  - Dataset 3 - [BirdCLEF Cvt2Img](https://www.kaggle.com/datasets/anishghiya/mlcs-cvt2img)
 
 ## EDA
   - Total of 264 classes.
